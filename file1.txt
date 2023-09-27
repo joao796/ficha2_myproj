@@ -6,4 +6,9 @@
 
 
 
-Fiz uma alteraçao dentro do ficheiro			
+Fiz uma alteraçao dentro do ficheiro
+
+
+
+
+!!!!!Alterações efetuadas na branch NovaFeature
